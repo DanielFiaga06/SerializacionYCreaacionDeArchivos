@@ -33,3 +33,7 @@ Profesor{nombre='Ana Torres', edad=40, direccion='Avenida 45', materia='Matemát
 
 ![run exitoso](https://github.com/user-attachments/assets/6b8c2b44-b433-48f3-b685-98c348851e66)
 
+
+![txt](https://github.com/user-attachments/assets/756178f7-3898-42bd-b916-1cdad26a7337)
+
+
