@@ -30,10 +30,22 @@ Persona{nombre='Laura Gómez', edad=28, direccion='Calle 1'}
 Estudiante{nombre='Carlos Ruiz', edad=20, direccion='Carrera 9', carrera='Ingeniería'}
 Profesor{nombre='Ana Torres', edad=40, direccion='Avenida 45', materia='Matemáticas'}
 
+Este archivo .txt se guarda en mi onedrive, en la carpeta de documentos y en una carpeta llamada deberes el cual es el nombre del proyecto
+
 
 ![run exitoso](https://github.com/user-attachments/assets/6b8c2b44-b433-48f3-b685-98c348851e66)
 
 
-![txt](https://github.com/user-attachments/assets/756178f7-3898-42bd-b916-1cdad26a7337)
+![onedrive](https://github.com/user-attachments/assets/eaf57cf8-6954-41d1-9028-a99343f6c91b)
+
+![documentos](https://github.com/user-attachments/assets/5db2e2fb-4464-4e79-8a77-2c1d3811beee)
+
+![carpeta deberes](https://github.com/user-attachments/assets/494fd1c1-9cfc-48a6-970f-fa3cba4d024f)
+
+![txt](https://github.com/user-attachments/assets/e2f0cedd-ec1d-450d-8afe-31479a011874)
+
+
+
+
 
 
