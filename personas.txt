@@ -1,0 +1,9 @@
+Persona{nombre='Laura Gómez', edad=28, direccion='Calle 1'}
+Estudiante{nombre='Carlos Ruiz', edad=20, direccion='Carrera 9', carrera='Ingeniería'}
+Profesor{nombre='Ana Torres', edad=40, direccion='Avenida 45', materia='Matemáticas'}
+Persona{nombre='Laura Gómez', edad=28, direccion='Calle 1'}
+Estudiante{nombre='Carlos Ruiz', edad=20, direccion='Carrera 9', carrera='Ingeniería'}
+Profesor{nombre='Ana Torres', edad=40, direccion='Avenida 45', materia='Matemáticas'}
+Persona{nombre='Laura Gómez', edad=28, direccion='Calle 1'}
+Estudiante{nombre='Carlos Ruiz', edad=20, direccion='Carrera 9', carrera='Ingeniería'}
+Profesor{nombre='Ana Torres', edad=40, direccion='Avenida 45', materia='Matemáticas'}
